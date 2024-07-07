@@ -1,0 +1,27 @@
+<svg id='Computer_Logo_Social_Instagram_24' width='24' height='24' viewBox='0 0 24 24'
+    xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <rect width='24' height='24' stroke='none' fill='#000000' opacity='0' />
+
+
+    <g transform="matrix(0.42 0 0 0.42 12 12)">
+        <g style="">
+            <g transform="matrix(1 0 0 1 0.29 0.29)">
+                <path
+                    style="stroke: rgb(0,0,0); stroke-width: 3.5714285714285716; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"
+                    transform=" translate(-24, -24)"
+                    d="M 3.26227 35.4675 C 3.52014 40.5885 7.41154 44.4799 12.5325 44.7377 C 15.5044 44.8874 19.3017 45 24 45 C 28.6983 45 32.4956 44.8874 35.4675 44.7377 C 40.5885 44.4799 44.4798 40.5885 44.7377 35.4675 C 44.8874 32.4956 45 28.6983 45 24 C 45 19.3017 44.8874 15.5044 44.7377 12.5325 C 44.4799 7.41154 40.5885 3.52015 35.4675 3.26228 C 32.4956 3.11262 28.6983 3 24 3 C 19.3017 3 15.5044 3.11262 12.5325 3.26227 C 7.41154 3.52014 3.52015 7.41154 3.26228 12.5325 C 3.11262 15.5044 3 19.3017 3 24 C 3 28.6983 3.11262 32.4956 3.26227 35.4675 Z"
+                    stroke-linecap="round" />
+            </g>
+            <g transform="matrix(1 0 0 1 0.29 0.29)">
+                <circle
+                    style="stroke: rgb(0,0,0); stroke-width: 3.5714285714285716; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"
+                    cx="0" cy="0" r="10" />
+            </g>
+            <g transform="matrix(1 0 0 1 12.79 -12.71)">
+                <path
+                    style="stroke: rgb(0,0,0); stroke-width: 3.5714285714285716; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"
+                    transform=" translate(-36.5, -11)" d="M 36 11 L 37 11" stroke-linecap="round" />
+            </g>
+        </g>
+    </g>
+</svg>
